@@ -1,3 +1,13 @@
+* {
+  border: 2px solid red;
+}
+
+h1,
+p,
+a {
+  font-family: Verdana, sans-serif;
+}
+
 img {
   height: auto;
   width: 500px;
